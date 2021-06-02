@@ -30,6 +30,6 @@ six==1.12.0
 sklearn
 tensorflow
 termcolor==1.1.0
-urllib3==1.25.8
+urllib3==1.26.5
 Werkzeug==0.15.4
 wrapt==1.11.2
